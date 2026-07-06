@@ -1,1 +1,2 @@
 # QuantumultX
+规则
